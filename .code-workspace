@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "stripe-core",
+      "path": "stripe-core"
+    },
+    {
+      "name": "stripe-haskell",
+      "path": "stripe-haskell"
+    },
+    {
+      "name": "stripe-http-client",
+      "path": "stripe-http-client"
+    },
+    {
+      "name": "stripe-http-streams",
+      "path": "stripe-http-streams"
+    },
+    {
+      "name": "stripe-tests",
+      "path": "stripe-tests"
+    }
+  ]
+}
